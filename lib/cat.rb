@@ -1,3 +1,7 @@
 class Cat
-  # code goes here
+  
+  def initializename :mood
+    @name = name
+    @mood = mood
+
 end
