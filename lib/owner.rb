@@ -40,7 +40,7 @@ class Owner
   end
   
   def play_cats
-    @cats[:cats].each 
+    @cats[:cats].each do 
     
   end
   
