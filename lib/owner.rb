@@ -4,7 +4,6 @@ class Owner
   @@all =[]
   @@count = []
   
-
   def self.all 
     @@all
   end
