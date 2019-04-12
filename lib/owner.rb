@@ -8,9 +8,6 @@ class Owner
     @@all
   end
   
-  def self.count
-    
-  end
   
   def initialize(species)
     @species = species
