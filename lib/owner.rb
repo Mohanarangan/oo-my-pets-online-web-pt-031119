@@ -1,5 +1,5 @@
 class Owner
   attr_accessor :species ,:name
   
-  def
+  def initialize(species)
 end
