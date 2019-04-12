@@ -62,6 +62,9 @@ class Owner
   def say_species
     "I am a human."
   end
+  
+  def sell_pets
+  end
 
 
 end
