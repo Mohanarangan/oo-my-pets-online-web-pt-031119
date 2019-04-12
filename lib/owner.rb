@@ -73,7 +73,7 @@ class Owner
   end
   
   def list_pets
-    pu
+    "I have "
   end
 
 
