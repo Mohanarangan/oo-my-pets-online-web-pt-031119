@@ -60,7 +60,7 @@ class Owner
   end
   
   def say_species
-    puts "I am aan."
+    "I am a human."
   end
 
 
