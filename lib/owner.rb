@@ -40,9 +40,12 @@ class Owner
   end
   
   def play_cats
-    @cats[:cats].each do 
+    @cats[:cats].each do |cat|
+      cat.mood= "happy"
+    end
     
   end
+  
   
   
   
