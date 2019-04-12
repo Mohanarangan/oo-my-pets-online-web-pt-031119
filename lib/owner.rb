@@ -9,7 +9,7 @@ class Owner
   end
   
   def self.count
-    @@all.size
+    
   end
   
   def initialize(species)
