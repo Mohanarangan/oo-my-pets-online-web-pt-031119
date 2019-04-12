@@ -2,7 +2,7 @@ class Owner
   attr_accessor :name ,:pets
   attr_reader :species
   @@all =[]
-  @@count = []
+  @@count = 1
   
   def self.all 
     @@all
